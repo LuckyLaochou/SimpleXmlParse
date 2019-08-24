@@ -1,0 +1,39 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - XmlParseTwo",
+            "request": "launch",
+            "mainClass": "app.XmlParseTwo",
+            "projectName": "XmlParse"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - FastJsonTest",
+            "request": "launch",
+            "mainClass": "app.FastJsonTest",
+            "projectName": "XmlParse"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - XmlParse",
+            "request": "launch",
+            "mainClass": "app.XmlParse",
+            "projectName": "XmlParse"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - XmlParse",
+            "request": "launch",
+            "mainClass": "XmlParse",
+            "projectName": "XmlParse"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - App",
+            "request": "launch",
+            "mainClass": "app.App",
+            "projectName": "XmlParse"
+        }
+    ]
+}
